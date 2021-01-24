@@ -18,11 +18,15 @@ int main(void)
 	printf("\n\n");
 	crsb74Sentence1();
 	printf("\n\n");
+	gillisaFirstSentence();
+	printf("\n\n");
 	smebmmSentence1();
 	printf("\n\n");
 	crsb74Sentence2();
 	printf("\n\n");
 	sn4fdSentence1();
+	printf("\n\n");
+	gillisaSecondSentence();
 	printf("\n\n");
 	hkg8bSentence1();
 	printf("\n\n");
